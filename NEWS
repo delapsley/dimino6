@@ -1,0 +1,11 @@
+
+2011-04-01	David Lapsley	<dlapsley@haystack.mit.edu>
+Release 0.2.0
+
+* Full end to end implementation
+* Receives incoming VSI-S messages and parse them
+* Translate VSI-S messages to X3C XML messages.
+* Send X3C messages to an X3C logger over TCP.
+* Retrieves command responses from logger.
+* Self contained Erlang release bundle.
+* Randomized VSI-S/X3C Command/Response generation for testing.

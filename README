@@ -1,0 +1,21 @@
+This directory contains the source code and documentation
+for the MIT Haystack dimino6 Mark6 control software.
+
+It is distributed under the terms set out in the LICENSE file.
+
+This directory contains the following directories and files:
+
+INSTALL		Describes how to install the software environment.
+LICENSE		Describes the license under which this software is distributed.
+NEWS		Describes the release notes for each release.
+docs		User documentation is stored in this directory.
+lib		Source code, test code, release configuration files are 
+		stored in this directory.
+rebar.config	Build management configuration tool
+tools		Tools for facilitating the configuration, build, test and
+		release process.
+
+This program is written in the Erlang programming language (www.erlang.org).
+
+Please direct any questions, comments, suggestions, or bug reports to 
+<del@haystack.mit.edu>.
